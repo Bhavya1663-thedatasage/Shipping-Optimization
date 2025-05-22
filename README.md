@@ -1,9 +1,5 @@
 # Shipping-Optimization
 
-=============================
-Shipping Optimization Project
-=============================
-
 Objective:
 Optimize delivery routes from Harrisburg, PA to 19 other U.S. cities using real driving distances, clustering, and route analysis.
 
