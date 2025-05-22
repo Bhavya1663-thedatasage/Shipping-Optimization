@@ -66,4 +66,7 @@ Notes:
 - API rate limits may apply — include 'time.sleep()' as needed.
 - Ensure the respective environment variables are set up
 
+> © 2025 Shiva Bhavya Sree Muttireddy. All rights reserved.  
+> This project is part of a course submission and is shared only for academic purposes.  
+> Reproduction, reuse, or modification of any content is not permitted.
 
